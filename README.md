@@ -1,16 +1,25 @@
-# sadapay
+# 💳 SadaPay UI Clone – Flutter Project
 
-A new Flutter project.
+This is a **Flutter UI clone** of the popular **SadaPay** mobile banking app. Built for design inspiration, this project replicates the smooth, modern, and minimalist interface used in fintech apps.
 
-## Getting Started
+This project focuses **only on the UI** – no backend or actual transactions.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📱 SadaPay-inspired home screen layout
+- 💰 Wallet balance and recent transactions UI
+- 📦 Card UI with rounded corners and shadows
+- 🧾 Payment options and actions
+- 🎨 Minimalist, modern, and clean design
+- 🚀 Responsive for various screen sizes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – Cross-platform framework  
+- **Dart** – Programming language  
+
+---
